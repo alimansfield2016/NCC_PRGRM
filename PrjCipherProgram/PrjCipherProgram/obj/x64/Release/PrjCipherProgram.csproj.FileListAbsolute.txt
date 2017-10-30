@@ -1,0 +1,7 @@
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\bin\x64\Release\PrjCipherProgram.exe.config
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\bin\x64\Release\PrjCipherProgram.exe
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\bin\x64\Release\PrjCipherProgram.pdb
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\obj\x64\Release\PrjCipherProgram.csprojResolveAssemblyReference.cache
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\obj\x64\Release\PrjCipherProgram.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\obj\x64\Release\PrjCipherProgram.exe
+C:\Users\alima\source\repos\PrjCipherProgram\PrjCipherProgram\obj\x64\Release\PrjCipherProgram.pdb
